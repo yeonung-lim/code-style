@@ -7,3 +7,4 @@
 이 레포지토리에는 다음과 같은 주요 기능들이 포함되어 있습니다:
 
 -   **Advertisement**: 광고 관련 기능이 포함된 폴더입니다. - [Advertisement](./Advertisement)
+-   **Effects**: 이펙트 풀링 기능이 포함된 폴더입니다. - [Effects](./Effects)
